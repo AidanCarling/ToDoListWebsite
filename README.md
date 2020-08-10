@@ -1,0 +1,1 @@
+This is a repository of a web application to do list. To do items can be input and added to a list. On this list the items can be checked as completed and deleted. The to do list items are saved into local storage and so they stay when the page is reloaded.
